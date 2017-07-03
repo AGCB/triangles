@@ -1,0 +1,168 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: green;
+}
+.alice {
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid red;
+  border-left: 10em solid blue;
+  border-bottom: 10em solid aliceBlue;
+  border-right: 10em solid salmon;
+  border-top-color: transparent;
+  border-right-color: transparent;
+border-left-color: transparent;
+}
+
+.antique {
+  position: relative;
+  left: 10em;
+  bottom: 10em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid antiqueWhite;
+  border-left: 10em solid blue;
+  border-bottom: 10em solid salmon;
+  border-right: 10em solid salmon;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+.aqua {
+  position: relative;
+  left: 20em  ;
+  top:-40em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid blue;
+  border-left: 10em solid blue;
+  border-bottom: 10em solid aqua;
+  border-right: 10em solid blue;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+.aquamarine {
+  position: relative;
+  left: 30em  ;
+  top:-50em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid green;
+  border-left: 10em solid green;
+  border-bottom: 10em solid green;
+  border-right: 10em solid green;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+.azure {
+  position: relative;
+  left: 40em  ;
+  top:-80em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid grey;
+  border-left: 10em solid grey;
+  border-bottom: 10em solid azure;
+  border-right: 10em solid grey;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+
+
+
+/* ----------------------*/
+/* ----------------------*/
+/* ----------------------*/
+/* ----------------------*/
+/* ----------------------*/
+
+
+
+
+
+.beige {
+  position: relative;
+  left: 10em;
+  bottom: 81em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid beige;
+  border-left: 10em solid blue;
+  border-bottom: 10em solid salmon;
+  border-right: 10em solid salmon;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+.bisque {
+  position: relative;
+  left: 20em  ;
+  top:-111em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid blue;
+  border-left: 10em solid blue;
+  border-bottom: 10em solid bisque;
+  border-right: 10em solid blue;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+.blanchedAlmond {
+  position: relative;
+  left: 30em  ;
+  top:-121em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid blanchedAlmond;
+  border-left: 10em solid green;
+  border-bottom: 10em solid green;
+  border-right: 10em solid green;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
+
+.blue {
+  position: relative;
+  left: 40em  ;
+  top:-151em;
+  background: transparent;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 10em solid grey;
+  border-left: 10em solid grey;
+  border-bottom: 10em solid blue;
+  border-right: 10em solid grey;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+}
